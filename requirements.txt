@@ -1,0 +1,7 @@
+pyinstaller>=6.0.0
+opencv-python
+pyautogui
+psutil
+numpy
+pillow
+pypiwin32; sys_platform == 'win32'
