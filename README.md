@@ -2,14 +2,14 @@
 A **powerful** Python-based remote access tool for security research, penetration testing, and **ethical red-teaming**.
 
 ## 📌 Description
-RAT-TOOL is a Remote Administration Tool designed for security researchers, penetration testers, and ethical hackers to assess system vulnerabilities and demonstrate remote access risks.
+**RAT-TOOL** is a Remote **Access** Tool designed for **security** researchers, **penetration testers**, and **ethical hackers** to assess **system vulnerabilities** and demonstrate remote access risks.
 
 This tool allows you to:
-✔ Generate a payload (payload.exe) for target systems.
-✔ Establish a reverse connection when the victim executes the payload.
-✔ Remotely control the victim's machine with multiple functionalities.
+✔ Generate a payload **(payload.exe)** for target systems.
+✔ Establish a reverse connection when the **victim** executes the payload.
+✔ Remotely control the victim's machine with **multiple functionalities**.
 
-> ❗ **⚠ DISCLAIMER:** This tool is for **educational** and **authorized** security testing purposes only. Unauthorized use against systems without explicit permission is illegal.
+> ❗ **⚠ DISCLAIMER:** This tool is for **educational** and **authorized** security testing purposes only. **Unauthorized** use against systems without explicit permission is **illegal**.
 
 ## 🔥 Features
 🖥️ Remote Command Execution – Run system commands on the victim's machine.
