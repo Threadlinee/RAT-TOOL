@@ -1,9 +1,5 @@
-# 🔴 **RAT-TOOL** - Remote Access Trojan Tool
-A powerful Python-based remote access tool for security research, penetration testing, and ethical red-teaming.
-
-Python
-License
-Platform
+# 🔴 RAT-TOOL - Remote Access Trojan Tool
+A **powerful** Python-based remote access tool for security research, penetration testing, and **ethical red-teaming**.
 
 ## 📌 Description
 RAT-TOOL is a Remote Administration Tool designed for security researchers, penetration testers, and ethical hackers to assess system vulnerabilities and demonstrate remote access risks.
