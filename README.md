@@ -15,6 +15,8 @@ This tool allows you to:
 
 # ⚠ Disclaimer: This tool is for educational and authorized security testing purposes only. Unauthorized use against systems without explicit permission is illegal.
 
+> ❗ **⚠ DISCLAIMER:** This tool is for **educational** and **authorized** security testing purposes only. Unauthorized use against systems without explicit permission is illegal.
+
 ## 🔥 Features
 🖥️ Remote Command Execution – Run system commands on the victim's machine.
 
