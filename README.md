@@ -13,8 +13,6 @@ This tool allows you to:
 ✔ Establish a reverse connection when the victim executes the payload.
 ✔ Remotely control the victim's machine with multiple functionalities.
 
-# ⚠ Disclaimer: This tool is for educational and authorized security testing purposes only. Unauthorized use against systems without explicit permission is illegal.
-
 > ❗ **⚠ DISCLAIMER:** This tool is for **educational** and **authorized** security testing purposes only. Unauthorized use against systems without explicit permission is illegal.
 
 ## 🔥 Features
