@@ -14,17 +14,17 @@ This tool allows you to:
 ## 🔥 Features
 🖥️ Remote Command Execution – Run system commands on the victim's machine.
 
-📸 Webcam Capture – Take snapshots from the victim’s webcam.
+📸 **Webcam Capture** – Take snapshots from the victim’s webcam.
 
-🖼️ Screenshot Capture – Monitor the victim’s screen in real-time.
+🖼️ **Screenshot Capture** – Monitor the victim’s screen in real-time.
 
-📂 File System Access – Browse, download, and upload files.
+📂 **File System Access** – Browse, download, and upload files.
 
-📊 System Information – Retrieve detailed system specs (OS, CPU, RAM, MAC, IP, etc.).
+📊 **System Information** – Retrieve detailed system specs (OS, CPU, RAM, MAC, IP, etc.).
 
-📥 Auto-Download Files – Automatically fetch sensitive documents.
+📥 **Auto-Download Files** – Automatically fetch sensitive documents.
 
-🔌 Persistent Connection – Maintains access until terminated.
+🔌 **Persistent Connection** – Maintains access until terminated.
 
 ## ⚙️ Installation & Usage
 1️⃣ Setup (Attacker Machine)
@@ -34,7 +34,7 @@ cd RAT-TOOL
 2️⃣ Generate Payload
 Run the payload generator:
 python RAT.py
-This creates payload.py and payload.exe (for Windows victims).
+This creates payload.py and payload.exe **(for Windows victims)**.
 
 3️⃣ Start Listener
 python listener.py
@@ -52,19 +52,19 @@ Download files with file_read C:\secret.txt
 Execute system commands directly.
 
 ## ⚠ Legal & Ethical Notice
-This tool is only for authorized security testing, educational purposes, and ethical hacking.
+This tool is only for **authorized** security testing, **educational purposes**, and **ethical hacking**.
 
 ## 🚨 Illegal use is strictly prohibited.
 
-You are responsible for complying with laws in your jurisdiction.
+You are **responsible** for complying with laws in your jurisdiction.
 
 Never deploy this tool without explicit permission from the target system owner.
 
 # 📜 License
-This project is licensed under MIT License. See LICENSE for details.
+This project is licensed under MIT License. See **LICENSE** for details.
 
 ## 📞 Contact
-Created by Threadlinee — reach out for questions, suggestions, or collabs via GitHub issues or DM.
+Created by **Threadlinee** — reach out for questions, suggestions, or collabs via GitHub issues or DM.
 
 # ☕ Support
 If you find this tool useful, drop a ⭐ or fork it. Contributions and proxy improvements are welcome.
@@ -72,5 +72,3 @@ If you find this tool useful, drop a ⭐ or fork it. Contributions and proxy imp
 [![Buy Me a Coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G114SBVV)
 
 ## Educational Purposes Only!! Stay safe, stay ethical. ✌️
-
-
