@@ -1,4 +1,4 @@
-# 🔴 **RAT**-TOOL - Remote Access Trojan Tool
+# 🔴 **RAT-TOOL** - Remote Access Trojan Tool
 A powerful Python-based remote access tool for security research, penetration testing, and ethical red-teaming.
 
 Python
